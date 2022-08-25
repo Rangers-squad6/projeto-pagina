@@ -1,0 +1,23 @@
+.cabecalho {
+    width: 940px;
+    height: 90px;
+    background-color: #000000
+}
+
+.titulo {
+    font-size: 40px;
+    font-weight: bold;
+    color: #FFFFFF
+}
+
+footer {
+    width: 940px;
+    height: 80px;
+    background-color: #000000
+}
+
+.copy {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 30px;
+}
